@@ -8,6 +8,8 @@
 
 > Description：A part of  ***Java Programming Design*** 's assignments at the first semester of my junior year
 
+> Textbook：[ Core Java Volume I - Fundamentals (10th Edition)](https://book.douban.com/subject/26880667/)
+
 ## 1. FanControl.java
 
 ### Requirement
@@ -46,9 +48,9 @@ use Multi thread
 ### Description
 截图布局
 
-|左|右|
-|---||---|
+
 | 欢迎界面 | 流泪|
+
 |微笑        | 生气|
 
 ### Emoji Interface :
